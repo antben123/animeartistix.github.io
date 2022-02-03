@@ -1,3 +1,10 @@
 * {
  font-family:Noto Sans; 
 }
+table, th, td {
+  border:1px solid black;
+}
+td, th {
+font-size:20px;
+font-family:garamond;
+}
