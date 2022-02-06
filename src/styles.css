@@ -4,18 +4,6 @@ margin:0px;
 * {
 font-family:Noto Sans;
 }
-#topnav {
-background-color:navy;
-margin:0px;
-font-family:Noto Sans;
-font-size:20px;
-height:35px;
-}
-#topnav a {
-color:lightgray;
-margin:4px;
-text-decoration:none;
-}
 #maincontent {
 margin:12px;
 }
